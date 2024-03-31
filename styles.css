@@ -1,0 +1,11 @@
+thead{
+    background-color: aquamarine;
+    font-style: bold;
+    padding: 10px;
+}
+tbody{
+    background-color: beige;
+}
+th{
+    font-style: bold;
+}
